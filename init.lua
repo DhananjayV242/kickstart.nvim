@@ -88,7 +88,7 @@ P.S. You can delete this when you're done too. It's your config now! :)
 require 'options'
 
 -- Setting keymaps
-require 'plugins.keymaps'
+require 'keymaps'
 
 --Bootstrapping Lazy
 require 'lazy_bootstrap'
